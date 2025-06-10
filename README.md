@@ -30,7 +30,7 @@ streamlit run gui.py
 
 then, open the URL shown in your brouser.
 
-## digital cubism
+## Digital Cubism
 
 Running this program on a series of images of the same subject taken from different angles or at different times, you get some visually interesting results.
 Each pixel or block in the final output can come from a different moment in time or a different viewpoint. So in the end, you get an image that feels like a mix of different timeframes and perspectives all mashed into one, kind of like "digital cubism."
