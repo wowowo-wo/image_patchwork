@@ -36,7 +36,7 @@ Running this program on a series of images of the same subject taken from differ
 Each pixel or block in the final output can come from a different moment in time or a different viewpoint. So in the end, you get an image that feels like a mix of different timeframes and perspectives all mashed into one, kind of like "digital cubism."
 The images above in this README were created by repeating this process multiple times, adjusting the block size each time, and mixing the previous output back into the input.
 
-## gif
+## Application to gif
 <p>
 <img src="ex/miku_origin.gif" width="250" style="display:inline-block;mergin-right;10px;"/>
 
