@@ -1,8 +1,10 @@
 # image_patchwork
 
-<img src="ex/ex1.png" width="1000">
+<p>
+<img src="ex/ex1.png" width="500" style="display:inline-block;mergin-right;10px;"/>
 
-<img src="ex/ex2.png" width="1000">
+<img src="ex/ex2.png" width="500" style="display:inline-block;">
+</p>
 
 This is a python tool that blends images as a patchwork.
 Using opencv and numpy.
