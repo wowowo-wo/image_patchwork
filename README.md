@@ -1,9 +1,9 @@
 # image_patchwork
 
 <p>
-<img src="ex/ex1.png" width="500" style="display:inline-block;mergin-right;10px;"/>
+<img src="ex/ex1.png" width="400" style="display:inline-block;mergin-right;10px;"/>
 
-<img src="ex/ex2.png" width="500" style="display:inline-block;">
+<img src="ex/ex2.png" width="400" style="display:inline-block;">
 </p>
 
 This is a python tool that blends images as a patchwork.
