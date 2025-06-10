@@ -37,12 +37,13 @@ Each pixel or block in the final output can come from a different moment in time
 The images above in this README were created by repeating this process multiple times, adjusting the block size each time, and mixing the previous output back into the input.
 
 ## gif
+<p>
+<img src="ex/miku_origin.gif" width="300" style="display:inline-block;mergin-right;10px;"/>
 
-<img src="ex/miku_origin.gif" width="400">
+<img src="ex/miku_pr1.gif" width="300" style="display:inline-block;mergin-right;10px;"/>
 
-<img src="ex/miku_pr1.gif" width="400">
-
-<img src="ex/miku_pr2.gif" width="400">
+<img src="ex/miku_pr2.gif" width="300" style="display:inline-block;"/>
+</p>
 
 ## Requirements
 
