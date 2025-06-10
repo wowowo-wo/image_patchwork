@@ -25,7 +25,7 @@ or you can run this tool with a GUI using Streamlit (It is more useful):
 
 ```bash
 pip install streamlit
-streamlit run gui.py
+streamlit run gui_image.py
 ```
 
 then, open the URL shown in your brouser.
@@ -36,7 +36,8 @@ Running this program on a series of images of the same subject taken from differ
 Each pixel or block in the final output can come from a different moment in time or a different viewpoint. So in the end, you get an image that feels like a mix of different timeframes and perspectives all mashed into one, kind of like "digital cubism."
 The images above in this README were created by repeating this process multiple times, adjusting the block size each time, and mixing the previous output back into the input.
 
-## Application to gif
+## Application to 
+
 <p>
 <img src="ex/miku_origin.gif" width="250" style="display:inline-block;mergin-right;10px;"/>
 
@@ -44,6 +45,14 @@ The images above in this README were created by repeating this process multiple 
 
 <img src="ex/miku_pr2.gif" width="250" style="display:inline-block;"/>
 </p>
+
+To apply this image processing method to a GIF file, you can achieve time-axis fragmentation effects.
+
+You can run a GIF processing tool with a GUI using Streamlit:
+
+```bash
+streamlit run gui_gif.py
+```
 
 ## Requirements
 

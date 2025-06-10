@@ -72,8 +72,6 @@ def blend_images(images, ratios, block_size=1):
 
     return output
 
-
-
 import argparse
 
 def parse_block_size(block_size_str):
