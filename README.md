@@ -38,11 +38,11 @@ The images above in this README were created by repeating this process multiple 
 
 ## gif
 <p>
-<img src="ex/miku_origin.gif" width="300" style="display:inline-block;mergin-right;10px;"/>
+<img src="ex/miku_origin.gif" width="250" style="display:inline-block;mergin-right;10px;"/>
 
-<img src="ex/miku_pr1.gif" width="300" style="display:inline-block;mergin-right;10px;"/>
+<img src="ex/miku_pr1.gif" width="250" style="display:inline-block;mergin-right;10px;"/>
 
-<img src="ex/miku_pr2.gif" width="300" style="display:inline-block;"/>
+<img src="ex/miku_pr2.gif" width="250" style="display:inline-block;"/>
 </p>
 
 ## Requirements
